@@ -8,9 +8,9 @@ Script check the wallets that got under the airrop zkFair
   4. In the root folder start the terminal ( Right click -> Open command window here )
   5. Write "**npm start**"
 
-# That's how looks eligible or ineligible wallets
+# That's how looks eligible or not eligible wallets
 ## Eligible 
 ![Image](https://github.com/LegendGenesis/zkfair-airdrop-checker/blob/main/eligible.jpg)
 
-## Ineligible
+## Not eligible
 ![Image](https://github.com/LegendGenesis/zkfair-airdrop-checker/blob/main/image.png)
