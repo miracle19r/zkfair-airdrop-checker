@@ -12,4 +12,4 @@ Script check the wallets that got under the airrop zkFair
 ![Image](https://github.com/LegendGenesis/zkfair-airdrop-checker/blob/main/eligible.jpg)
 
 ## Ineligible
-![Image](https://github.com/LegendGenesis/zkfair-airdrop-checker/blob/main/image.jpg)
+![Image](https://github.com/LegendGenesis/zkfair-airdrop-checker/blob/main/image.png)
